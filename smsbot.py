@@ -2,7 +2,7 @@ import discord
 from time import sleep
 from sms import SendSms
 
-TOKEN = "MTEwODQzNTYwNjkxNDIwMzc3MA.GN03V6.ak4tQ1pco7HanhGvmlPVGt6VGmPbfhKPZ1_6LQ"
+TOKEN = ""
 
 adet = 20
 saniye = 0
