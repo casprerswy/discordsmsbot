@@ -2,7 +2,7 @@ import discord
 from time import sleep
 from sms import SendSms
 
-TOKEN = ""
+TOKEN = "YOUR DİSCORD BOT TOKEN"
 
 adet = 20
 saniye = 0
