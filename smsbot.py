@@ -29,7 +29,7 @@ def main():
 if __name__ == "__main__":
     rainbow_text("Coding by omicr0n")
 
-TOKEN = "YOUR DİSCORD BOT TOKEN"
+TOKEN = "MTE3MzIzOTY1ODE3MjM4MzM0Mw.G_0aDs.tVr7k9BZDyk4-5SQZQVkuyB2a7_SSnUc0dFryQ"
 
 adet = 20
 saniye = 0
@@ -71,4 +71,4 @@ async def on_message(message):
     else:
         pass
   
-client.run("YOUR DİSCORD BOT TOKEN")
+client.run("MTE3MzIzOTY1ODE3MjM4MzM0Mw.G_0aDs.tVr7k9BZDyk4-5SQZQVkuyB2a7_SSnUc0dFryQ")
